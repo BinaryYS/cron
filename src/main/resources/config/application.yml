@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+#spring:
+#  thymeleaf:
+#    cache: false
+#  jpa:
+#    showSql: false
+#    database: MYSQL
+#    generateDdl: false
+#    databasePlatform: org.hibernate.dialect.MySQL5InnoDBDialect
+#    properties:
+#      hibernate:
+#        format_sql: false
+#        generate_statistics: false
+#  datasource:
+#    url: jdbc:mysql://${db.host}:${db.port}/mybatis?useUnicode=true&characterEncoding=UTF8&zeroDateTimeBehavior=convertToNull&autoReconnect=true&failOverReadOnly=false&maxReconnects=10
+#    username: ${db.username}
+#    password: ${db.password}
+#    slowSqlMillis: 500
